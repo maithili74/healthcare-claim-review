@@ -1,0 +1,148 @@
+=== Pregnancy ===
+
+Guideline:
+Uterine fundal height evaluation is routinely performed during pregnancy to monitor fetal growth and gestational progress.
+
+Guideline:
+Prenatal visits commonly include blood pressure monitoring, fetal assessment, maternal health evaluation, and routine pregnancy examinations.
+
+Guideline:
+Repeat prenatal assessments within short intervals may be clinically appropriate depending on gestational age and maternal risk factors.
+
+------------------------------------------------------------
+
+=== Hypertension ===
+
+Guideline:
+Patients with hypertension commonly receive blood pressure monitoring, medication management, cardiovascular evaluation, and routine follow-up visits.
+
+Guideline:
+General health assessments may be appropriate for patients with chronic hypertension when managing long-term care.
+
+------------------------------------------------------------
+
+=== Diabetes ===
+
+Guideline:
+Patients with diabetes commonly undergo HbA1c testing, blood glucose monitoring, foot examinations, kidney function evaluation, and routine follow-up care.
+
+Guideline:
+Chronic disease management visits are appropriate for diabetes patients.
+
+------------------------------------------------------------
+
+=== Respiratory Disorders ===
+
+Guideline:
+Patients with asthma or chronic obstructive pulmonary disease commonly receive pulmonary function testing, respiratory assessment, medication review, and routine follow-up.
+
+------------------------------------------------------------
+
+=== Cardiovascular Disease ===
+
+Guideline:
+Patients with cardiovascular disease frequently receive ECG evaluation, blood pressure monitoring, medication management, and follow-up assessments.
+
+------------------------------------------------------------
+
+=== Mental Health ===
+
+Guideline:
+Patients with depression or anxiety commonly receive behavioral health assessment, counseling evaluation, medication review, and follow-up visits.
+
+------------------------------------------------------------
+
+=== Musculoskeletal Disorders ===
+
+Guideline:
+Patients with arthritis or musculoskeletal disorders commonly receive physical examination, mobility assessment, pain evaluation, imaging when indicated, and rehabilitation follow-up.
+
+------------------------------------------------------------
+
+=== Kidney Disease ===
+
+Guideline:
+Patients with chronic kidney disease commonly undergo renal function testing, electrolyte monitoring, medication review, and nephrology follow-up.
+
+------------------------------------------------------------
+
+=== Preventive Care ===
+
+Guideline:
+Routine wellness examinations may include health assessments, preventive screening, immunizations, counseling, and care planning.
+
+Guideline:
+Assessment of health and social care needs is appropriate when evaluating patient support requirements, chronic disease management, discharge planning, or care coordination.
+
+------------------------------------------------------------
+
+=== Laboratory Services ===
+
+Guideline:
+Laboratory investigations should generally be clinically supported by the patient's diagnosis, symptoms, or ongoing disease management.
+
+------------------------------------------------------------
+
+=== Imaging ===
+
+Guideline:
+Diagnostic imaging should generally be supported by documented clinical indications and medical necessity.
+
+------------------------------------------------------------
+
+=== Repeat Procedures ===
+
+Guideline:
+Repeat procedures performed within 30 days are not automatically inappropriate. They may represent appropriate follow-up care, treatment monitoring, or management of chronic conditions.
+
+------------------------------------------------------------
+
+=== Duplicate Billing ===
+
+Guideline:
+Duplicate claims with identical patient, provider, procedure, date, and amount should be reviewed for potential duplicate billing.
+
+------------------------------------------------------------
+
+=== High Cost Claims ===
+
+Guideline:
+Claims with unusually high costs compared with similar procedures or provider history should be reviewed for billing accuracy and medical necessity.
+
+------------------------------------------------------------
+
+=== Provider Behavior ===
+
+Guideline:
+Providers with unusually high billing volume or consistently abnormal claim patterns may require additional payment integrity review.
+
+------------------------------------------------------------
+
+=== Clinical Consistency ===
+
+Guideline:
+Clinical appropriateness should be assessed by evaluating whether the documented condition, procedure, patient demographics, and clinical reason are medically consistent.
+
+------------------------------------------------------------
+
+=== Age and Gender Consistency ===
+
+Guideline:
+Pregnancy-related procedures should generally be consistent with patient demographics and documented pregnancy-related conditions.
+
+Guideline:
+Age-specific procedures should be evaluated to ensure they are clinically appropriate for the patient's age group.
+
+------------------------------------------------------------
+
+=== Payment Integrity ===
+
+Guideline:
+A claim should not be denied solely because it appears unusual. Clinical evidence, financial indicators, provider behavior, and historical patterns should all be considered before making a recommendation.
+
+------------------------------------------------------------
+
+=== Manual Review ===
+
+Guideline:
+Claims with conflicting clinical evidence, unusual billing patterns, or multiple moderate-risk indicators should be referred for manual review rather than automatic denial.
